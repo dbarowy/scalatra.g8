@@ -1,9 +1,6 @@
 # Scalatra sbt project #
 
-[![Build Status](https://secure.travis-ci.org/scalatra/scalatra-sbt.g8.png)](http://travis-ci.org/scalatra/scalatra-sbt.g8)
-
-
-[g8](https://github.com/foundweekends/giter8) template to get a Scalatra web service up and running quickly.
+[g8](https://github.com/foundweekends/giter8) template to get a Scalatra web service up and running quickly. This is a fork of the [official repository](https://github.com/scalatra/scalatra.g8), because they recently switched to [Twirl](https://github.com/playframework/twirl) from [Scalate](https://scalate.github.io/scalate/). This repository reverts the change back to Scalate, so that anybody using the [Scalata in Action](https://www.manning.com/books/scalatra-in-action) book can follow along.
 
 ## Use this template ##
 
